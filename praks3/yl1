@@ -1,0 +1,5 @@
+#!/bin/bash
+ echo "Sisesta oma ees ja perenimi: $nimi "
+read nimi
+
+echo "Tere tulemast, $nimi"
